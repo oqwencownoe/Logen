@@ -1,0 +1,30 @@
+.big-title {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  align: center;
+  background-image: url("file:///Users/a10/Desktop/HMC/CS/html%20project/project/pattern.jpg");
+}
+
+.subtitle1 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+.subtitle2 {
+  background-color: lightcoral;
+}
+
+.subtitle3 {
+  background-color: skyblue;
+}
+
+.first,.second,.third {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
